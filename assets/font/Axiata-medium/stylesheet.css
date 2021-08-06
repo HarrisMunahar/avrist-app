@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Axiata';
+    src: url('AxiataMedium.woff2') format('woff2'),
+        url('AxiataMedium.woff') format('woff');
+    font-style: normal;
+    font-display: swap;
+}
+
